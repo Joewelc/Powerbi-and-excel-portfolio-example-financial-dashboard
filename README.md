@@ -1,7 +1,8 @@
 Powerbi-portfolio-example-financial-dashboard
 An example financial dashboard made in power BI for my finance portfolio 
 
-Dashboard Preview
+Dashboard Preview:
+![Dashboard](pbi_image.jpg)
 
 
 Interactive financial performance dashboard built in Power BI for a 
